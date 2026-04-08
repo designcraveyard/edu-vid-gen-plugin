@@ -1,0 +1,9 @@
+{
+  "name": "edu-vid-gen",
+  "version": "2.1.0",
+  "description": "Educational video generator — AI-powered pipeline that produces complete MP4 videos with voiceover, keyframe images, and video clips. Audio-first architecture with VO-driven clip planning, Gemini-powered validation, MoviePy compositor, and multi-model video backends (Veo, Wan 2.7).",
+  "author": {
+    "name": "Abhishek Verma",
+    "email": "abhishek.verma@proton.me"
+  }
+}
