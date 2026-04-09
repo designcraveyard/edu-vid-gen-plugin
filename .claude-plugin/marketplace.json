@@ -1,0 +1,15 @@
+{
+  "name": "edu-vid-gen-local",
+  "owner": {
+    "name": "Abhishek Verma",
+    "email": "abhishek.verma@proton.me"
+  },
+  "plugins": [
+    {
+      "name": "edu-vid-gen",
+      "description": "Educational video generator — AI-powered pipeline that produces complete MP4 videos with voiceover, keyframe images, and video clips.",
+      "version": "2.1.0",
+      "source": "./"
+    }
+  ]
+}
